@@ -8,3 +8,4 @@
   - [Community Detection using Graph Neural Networks](https://github.com/navpreetnp7/Community-Detection)
   - [Image Classification using DenseNet](https://github.com/navpreetnp7/Image-Classification-using-Densenet)
   - [Training conditional DCGANs](https://github.com/navpreetnp7/conditional-DCGAN)
+  - [Vehicle detection and tracking](https://github.com/navpreetnp7/Car-Tracking-and-speed-estimation)
