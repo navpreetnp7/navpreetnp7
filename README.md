@@ -4,6 +4,8 @@
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/navpreetsingh7/) | [navpreet.np1@gmail.com](mailto:navpreet.np1@gmail.com)**
 - 💼 Personal Portfolio: **[Portfolio](https://navpreetnp7.github.io/)**
 - ⚡ My repositories that exhibit my technical abilities: <br>
+  - [Segment Anything](https://huggingface.co/spaces/navpreetnp/ERA-S19)
+  - [Stable Diffusion](https://huggingface.co/spaces/navpreetnp/ERA-S20)
   - [Deplying CNN on Serverless GPU Platform](https://github.com/navpreetnp7/Deploying-CNN-ServerlessGPU)
   - [Classifying papers using GPT Transformer](https://github.com/navpreetnp7/Classifying-arXiv-paper-using-GPT2)
   - [Community Detection using Graph Neural Networks](https://github.com/navpreetnp7/Community-Detection)
