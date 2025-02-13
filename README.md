@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🙌 I'm currently open to: **Machine Learning | Software Engineering roles**
-- 🌱 I’m currently learning **MLOps | Big Data Analytics**
+- 🙌 I'm currently open to: **Machine Learning Engineering roles**
+- 🌱 I’m currently learning **MLOps**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/navpreetsingh7/) | [navpreet.np1@gmail.com](mailto:navpreet.np1@gmail.com)**
 - 💼 Personal Portfolio: **[Portfolio](https://navpreetnp7.github.io/)**
 - ⚡ My repositories that exhibit my technical abilities: <br>
